@@ -21,6 +21,7 @@
     self.view.backGroundColor = [UIColor redColor];
     self.windows = 1;
     [super view];
+    测试一下
     
 }
 
