@@ -20,6 +20,7 @@
     NSLog(@"");
     self.view.backGroundColor = [UIColor redColor];
     self.windows = 1;
+    [super view];
     
 }
 
